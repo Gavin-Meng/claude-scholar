@@ -7,6 +7,7 @@ on:
       - main
       - codex
       - opencode
+      - ci/granola-opencode
 
 jobs:
   granola-windows:
